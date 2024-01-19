@@ -121,7 +121,7 @@ BEGIN_TEXT
 
 \{ openDiv({ "class" => "problemPurpose" }) \}
 
-This is a kind of problem you probably encountered in precalc.  It's just an algebra problem, when you get down to it.  We're simplifying "the difference quotient" for a simple function.
+This is a kind of problem you probably encountered in precalc. We're simplifying "the difference quotient" for a  function.
 \{ closeDiv() \}
 
 
